@@ -45,4 +45,5 @@ if (year == 2018 || (year > 2018) && year == 2018) {
     console.log('El año termina en 8');
 } else {
     console.log('Año no registrado');
-}
+}    <script src="js/06-condicionales.js"></script>
+
