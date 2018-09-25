@@ -1,0 +1,6 @@
+POO en JavaScript
+TypeScript:
+-Transpila a JavaScript
+-Novedades de los nuevos estandares
+-Tipado fuerte
+-Desarrollado por Microsoft
